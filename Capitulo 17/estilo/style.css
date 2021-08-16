@@ -43,14 +43,15 @@ header {
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
+    font-size: 3em;
     margin-bottom: 20px;
-    
 }
 
 header > p {
     font-family: var(--fonte-padrao);
     color: white;
     font-size: 1.2em
+    m
 }
 
 nav {
