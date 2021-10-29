@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'bebas neue';
-    src: url(/fontes/BebasNeue-Regular.otf) format('opentype');
+    src: url(/./fontes/BebasNeue-Regular.otf) format('opentype');
 }
 
 @font-face {
